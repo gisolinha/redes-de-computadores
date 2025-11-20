@@ -1,4 +1,4 @@
-# 'Laboratórios de Redes de Computadores'
+# `Laboratórios de Redes de Computadores`
 
 Este repositório foi criado para a disciplina de Redes de Computadores e tem como objetivo armazenar todos os códigos, notebooks de simulação e relatórios desenvolvidos ao longo da cadeira.
 
