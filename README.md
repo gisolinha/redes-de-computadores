@@ -18,7 +18,8 @@ O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da 
 
 * Respostas e Resultados Chave
 
-1. Modulação e Mensagem (Etapa 2)
+
+```1. Modulação e Mensagem (Etapa 2)
 
 Modulação Utilizada: NRZ com FSK ($440$ Hz para bit $0$ e $880$ Hz para bit $1$).
 
@@ -56,4 +57,4 @@ Os gráficos de desempenho (Número de Erros vs. SNR e BER vs. SNR) foram gerado
 
 Mensagem Decodificada (dados_ar.wav): 01011
 
-Reproduções Necessárias: 3 vezes (Devido à complexidade do canal acústico real, foram necessárias múltiplas transmissões para garantir a correta sincronização e decodificação.)
+Reproduções Necessárias: 3 vezes (Devido à complexidade do canal acústico real, foram necessárias múltiplas transmissões para garantir a correta sincronização e decodificação.)```
