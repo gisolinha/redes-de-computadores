@@ -19,33 +19,31 @@ O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da 
 * Respostas e Resultados Chave
 
 
-```1. Modulação e Mensagem (Etapa 2)
+### 1. Modulação e Mensagem (Etapa 2) ###
 
-Modulação Utilizada: NRZ com FSK ($440$ Hz para bit $0$ e $880$ Hz para bit $1$).
+* Modulação Utilizada: NRZ com FSK ($440$ Hz para bit $0$ e $880$ Hz para bit $1$).
 
-Mensagem de Teste (20 bits): 10110101001100101010
+* Mensagem de Teste (20 bits): 10110101001100101010
 
-2. Análise de Ruído (Etapa 3 - A3.1)
+
+### 2. Análise de Ruído (Etapa 3 - A3.1) ### 
 
 O objetivo desta análise foi comparar a robustez de NRZ e Manchester submetidas a ruído.
 
-Modulação
+* Modulação
 
-Falha Parcial (Primeiros Erros)
+* Falha Parcial (Primeiros Erros)
 
-Falha Total (Todos os 20 bits errados)
+* Falha Total (Todos os 20 bits errados)
 
-NRZ
+ ´´´NRZ
 
-Em torno de $-6$ dB a $-9$ dB
-
-$-21$ dB
+* Em torno de -6 dB a -9 dB. 
 
 Manchester
 
-Em torno de $-12$ dB a $-18$ dB
+* Em torno de $-12$ dB a $-18$ dB```
 
-$-27$ dB
 
 Conclusão: A modulação Manchester provou ser superior em canais com ruído, tolerando um SNR aproximadamente $6$ dB mais baixo que o NRZ antes de falhar totalmente, devido ao seu mecanismo de auto-sincronização.
 
@@ -57,4 +55,4 @@ Os gráficos de desempenho (Número de Erros vs. SNR e BER vs. SNR) foram gerado
 
 Mensagem Decodificada (dados_ar.wav): 01011
 
-Reproduções Necessárias: 3 vezes (Devido à complexidade do canal acústico real, foram necessárias múltiplas transmissões para garantir a correta sincronização e decodificação.)```
+Reproduções Necessárias: 3 vezes (Devido à complexidade do canal acústico real, foram necessárias múltiplas transmissões para garantir a correta sincronização e decodificação.)
