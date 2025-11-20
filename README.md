@@ -8,7 +8,7 @@ O foco é a implementação prática de conceitos teóricos de comunicação dig
 
 ## Objetivo do Laboratório
 
-'''O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da comunicação digital utilizando o canal de áudio (alto-falante $\to$ ar $\to$ microfone) para transmitir dados binários.'''
+### O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da comunicação digital utilizando o canal de áudio (alto-falante $\to$ ar $\to$ microfone) para transmitir dados binários. ###
 
 Os principais desafios foram:
 
