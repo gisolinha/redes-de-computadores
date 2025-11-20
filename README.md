@@ -4,21 +4,19 @@ Este repositório foi criado para a disciplina de Redes de Computadores e tem co
 
 O foco é a implementação prática de conceitos teóricos de comunicação digital, codificação, modulação e análise de desempenho em canais com ruído.
 
-# Lab 1: Modulação Digital com Áudio
+# `Lab 1: Modulação Digital com Áudio`
 
-## Objetivo do Laboratório
+### Objetivo do Laboratório
 
-### O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da comunicação digital utilizando o canal de áudio (alto-falante $\to$ ar $\to$ microfone) para transmitir dados binários. ###
+O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da comunicação digital utilizando o canal de áudio (alto-falante $\to$ ar $\to$ microfone) para transmitir dados binários. Os principais desafios foram:
 
-Os principais desafios foram:
+* Decodificar uma mensagem codificada em FSK (Frequency-Shift Keying) a partir de um arquivo de áudio (.wav).
 
-Decodificar uma mensagem codificada em FSK (Frequency-Shift Keying) a partir de um arquivo de áudio (.wav).
+* Analisar o impacto do ruído (AWGN) no desempenho das modulações NRZ e Manchester.
 
-Analisar o impacto do ruído (AWGN) no desempenho das modulações NRZ e Manchester.
+* Decodificar uma mensagem em um canal ruidoso real (dados_ar.wav), exigindo múltiplas transmissões para correção de erros.
 
-Decodificar uma mensagem em um canal ruidoso real (dados_ar.wav), exigindo múltiplas transmissões para correção de erros.
-
-Respostas e Resultados Chave
+* Respostas e Resultados Chave
 
 1. Modulação e Mensagem (Etapa 2)
 
