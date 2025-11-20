@@ -38,9 +38,9 @@ O objetivo desta análise foi comparar a robustez de NRZ e Manchester submetidas
 
  ´NRZ
 
-* Em torno de -6 dB a -9 dB. 
+* Em torno de -6 dB a -9 dB.`
 
-Manchester
+`Manchester
 
 * Em torno de $-12$ dB a $-18$ dB`
 
