@@ -40,9 +40,9 @@ O objetivo desta análise foi comparar a robustez de NRZ e Manchester submetidas
 * Manchester: **Em torno de -12 dB a -18 dB.**
 
 
-** Conclusão: A modulação Manchester provou ser superior em canais com ruído, tolerando um SNR aproximadamente $6$ dB mais baixo que o NRZ antes de falhar totalmente, devido ao seu mecanismo de auto-sincronização. **
+**Conclusão: A modulação Manchester provou ser superior em canais com ruído, tolerando um SNR aproximadamente $6$ dB mais baixo que o NRZ antes de falhar totalmente, devido ao seu mecanismo de auto-sincronização.**
 
-** Os gráficos de desempenho (Número de Erros vs. SNR e BER vs. SNR) foram gerados e comprovam a maior robustez do Manchester. **
+**Os gráficos de desempenho (Número de Erros vs. SNR e BER vs. SNR) foram gerados e comprovam a maior robustez do Manchester.**
 
 ### 3. Ruído Real (Etapa 4) ###
 
