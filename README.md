@@ -1,14 +1,14 @@
-# 💻 Laboratórios de Redes de Computadores
+# Laboratórios de Redes de Computadores
 
 Este repositório foi criado para a disciplina de Redes de Computadores e tem como objetivo armazenar todos os códigos, notebooks de simulação e relatórios desenvolvidos ao longo da cadeira.
 
 O foco é a implementação prática de conceitos teóricos de comunicação digital, codificação, modulação e análise de desempenho em canais com ruído.
 
-🔬 Lab 1: Modulação Digital com Áudio
+# Lab 1: Modulação Digital com Áudio
 
-Objetivo do Laboratório
+## Objetivo do Laboratório
 
-O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da comunicação digital utilizando o canal de áudio (alto-falante $\to$ ar $\to$ microfone) para transmitir dados binários.
+''O Lab 1, intitulado "Modulação Digital com Áudio", propôs a exploração da comunicação digital utilizando o canal de áudio (alto-falante $\to$ ar $\to$ microfone) para transmitir dados binários.''
 
 Os principais desafios foram:
 
